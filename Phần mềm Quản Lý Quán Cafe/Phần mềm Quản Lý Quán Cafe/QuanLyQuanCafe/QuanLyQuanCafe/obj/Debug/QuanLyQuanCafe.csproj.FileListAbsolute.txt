@@ -1,8 +1,0 @@
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
-E:\Phần mềm Quản Lý Quán Cafe\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
